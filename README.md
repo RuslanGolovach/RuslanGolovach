@@ -7,6 +7,10 @@
 - 🥅 I am constantly learning new things
 - ⚡ Looking for a job
 
+![Ruslan Golovach's GitHub stats](https://github-readme-stats.vercel.app/api?username=RuslanGolovach)
+<br />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuslanGolovach)
+
 ### Connect with me:
 
 <!-- [<img align="left" alt="RuslanGolovach | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] -->
