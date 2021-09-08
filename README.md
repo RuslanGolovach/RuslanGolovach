@@ -7,8 +7,9 @@
 - 🥅 I am constantly learning new things
 - ⚡ Looking for a job
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuslanGolovach&show_icons=true&theme=radical)
-)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuslanGolovach&show_icons=true&theme=radical) -->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuslanGolovach&layout=compact&show_icons=true&theme=radical)
 
 ### Connect with me:
 
