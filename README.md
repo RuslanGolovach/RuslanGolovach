@@ -1,5 +1,7 @@
 ### Hi there, I`m Ruslan 👋
 
+![](https://komarev.com/ghpvc/?username=your-github-RuslanGolovach)
+
 ## I'm a Front-End Developer
 
 - 💪 I like to write code
