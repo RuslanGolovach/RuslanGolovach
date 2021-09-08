@@ -7,15 +7,11 @@
 - 🥅 I am constantly learning new things
 - ⚡ Looking for a job
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuslanGolovach&show_icons=true&theme=radical) -->
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuslanGolovach&layout=compact&show_icons=true&theme=radical)
 
 ### Connect with me:
 
-<!-- [<img align="left" alt="RuslanGolovach | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] -->
-
-<br />
+<p><a href="https://www.linkedin.com/in/ruslan-golovach-40313a21a/" rel="noopener noreferrer" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://t.me/RuslanGolovach" rel="noopener noreferrer" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /> <a href="mailto:ruslan.golovach21@gmail.com" rel="noopener noreferrer" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a></p>
 
 ### Languages and Tools:
 
