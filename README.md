@@ -1,6 +1,6 @@
 ### Hi there, I`m Ruslan 👋
 
-## I'm a Front-End Developer 💼HTML / CSS/ JS / REACT
+## I'm a Front-End Developer
 
 - 💪 I like to write code
 - 💻 My stack is 💼HTML / CSS/ JS / REACT
